@@ -1,5 +1,5 @@
 #1_Write a Python program to calculate the length of a string. 
-name ='taranpreet'
+name ='Vansh'
 a= len(name)
 print(a)
 
